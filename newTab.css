@@ -1,0 +1,27 @@
+html {
+  background-image: url(background.jpg);
+  position: relative;
+}
+
+.wrap-ayat {
+  color: white;
+  font-size: 20px;
+  padding: 30px;
+  background: rgba(0,0,0,.5);
+  border-radius: 5px;
+  min-width: 400px;
+  max-width: calc(65vw - 300px);
+  max-height: 50vh;
+  overflow: auto;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 50vh;
+}
+
+#terjemah {
+  margin-top: 1rem
+}
+
+span {
+  display: block;
+}
